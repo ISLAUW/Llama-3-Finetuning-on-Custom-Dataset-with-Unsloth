@@ -1,4 +1,4 @@
-# Llama-3-Finetuning-on-Custom-Dataset-with-Unsloth
+# Llama 3 Finetuning on Custom Dataset with Unsloth
 
 ## 1. Environment and Library Setup
 - Installs and imports necessary libraries (Unsloth, torch, Huggingface Transformers, bitsandbytes, etc.).
